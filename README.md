@@ -25,4 +25,4 @@ Vim da automação de testes: Playwright e TypeScript, testes de API com Postman
 
 ## Contato
 
-[LinkedIn](linkedin.com/in/victor-fulini)
+[LinkedIn] (linkedin.com/in/victor-fulini)
